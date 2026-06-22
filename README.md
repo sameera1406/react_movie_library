@@ -24,3 +24,4 @@ If you are developing a production application, we recommend using TypeScript wi
 4.components
 5.condition rendering
 6.what is State? State is Something where once its updated , the component will change abd re render itself to show the new State
+7.page routiong 
